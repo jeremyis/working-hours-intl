@@ -1,0 +1,11 @@
+{
+  "name": "working-hours-international",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jeremy Smith",
+    "email": "jeremy.elliot.smith@gmail.com"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.4.0"
+  }
+}
